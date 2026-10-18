@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# KiCad locks and temporary files
+*.lck
+*.bak
+*-bak
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
